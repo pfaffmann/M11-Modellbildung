@@ -1,0 +1,36 @@
+.spacer {
+  height: 7vh;
+}
+.footer {
+  height: 5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  padding-inline: 2em;
+}
+
+.frame {
+  width: 100vw;
+  height: 88vh;
+}
+
+.text-align-left {
+  text-align: left;
+}
+.text-align-center {
+  text-align: center;
+}
+.text-align-right {
+  text-align: right;
+}
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+  padding-inline: 3em;
+}
+
+h1 {
+  text-align: center;
+}
